@@ -1,5 +1,5 @@
 katz_deli = []
-customer = ["Logan, Avi, Spencer"]
+take_a_number(katz_deli, "Logan")
 def line(katz_deli)
   line_position = []
   if katz_deli.empty?
