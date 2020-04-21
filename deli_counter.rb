@@ -1,8 +1,5 @@
-katz_deli = []
+katz_deli = ["Logan"]
 
-take_a_number(katz_deli, "Logan")
-take_a_number(katz_deli, "")
-take_a_number(katz_deli, "Logan")
 
 def line(katz_deli)
   line_position = []
